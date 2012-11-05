@@ -78,12 +78,21 @@ func main() {
 参考
 ----
 
-* [golang.jp](http://golang.jp)
-* [A Tour of Go](http://go-tour-jp.appspot.com/#1)
-* [go-tour](http://code.google.com/p/go-tour/)
+### Tips
+
+* [言語仕様]http://golang.jp/go_spec
 * [プログラミング言語Goフレーズブック](http://www.amazon.co.jp/exec/obidos/ASIN/486401096X/yoshikisbooks-22/ref=nosim)
 * [同、原著](http://www.informit.com/store/product.aspx?isbn=0321817141)
 * [同、サンプルコード](http://www.informit.com/content/images/9780321817143/downloads/9780321817143_codeexamples.zip)
+
+### Tutorial
+
+* [A Tour of Go](http://go-tour-jp.appspot.com/#1)
+* [go-tour](http://code.google.com/p/go-tour/)
+
+### Others
+
+* [golang.jp](http://golang.jp)
 
 Author
 ------
