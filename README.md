@@ -79,6 +79,7 @@ func main() {
 ----
 
 * [golang.jp](http://golang.jp)
+* [A Tour of Go](http://go-tour-jp.appspot.com/#1)
 * [go-tour](http://code.google.com/p/go-tour/)
 * [プログラミング言語Goフレーズブック](http://www.amazon.co.jp/exec/obidos/ASIN/486401096X/yoshikisbooks-22/ref=nosim)
 * [同、原著](http://www.informit.com/store/product.aspx?isbn=0321817141)
