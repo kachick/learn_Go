@@ -80,7 +80,8 @@ func main() {
 
 ### Tips
 
-* [言語仕様]http://golang.jp/go_spec
+* [言語仕様](http://golang.jp/go_spec)
+* [Effective Go](http://go.shibu.jp/effective_go.html)
 * [プログラミング言語Goフレーズブック](http://www.amazon.co.jp/exec/obidos/ASIN/486401096X/yoshikisbooks-22/ref=nosim)
 * [同、原著](http://www.informit.com/store/product.aspx?isbn=0321817141)
 * [同、サンプルコード](http://www.informit.com/content/images/9780321817143/downloads/9780321817143_codeexamples.zip)
